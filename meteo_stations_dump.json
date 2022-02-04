@@ -1,0 +1,1634 @@
+{
+    "date_created": "2021-12-22",
+    "Akulivik": {
+        "cle": "7100070",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7100070&date_selection=2021-12-22",
+        "lat": "60 50' 3''",
+        "long": "-78 10' 10''",
+        "alt": "77m"
+    },
+    "Albanel-2": {
+        "cle": "7060082",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7060082&date_selection=2021-12-22",
+        "lat": "48 54' 39''",
+        "long": "-72 28' 16''",
+        "alt": "165m"
+    },
+    "Amqui-2": {
+        "cle": "7050141",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7050141&date_selection=2021-12-22",
+        "lat": "48 25' 45''",
+        "long": "-67 26' 42''",
+        "alt": "181m"
+    },
+    "Armagh-2": {
+        "cle": "7050241",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7050241&date_selection=2021-12-22",
+        "lat": "46 42' 57''",
+        "long": "-70 36' 3''",
+        "alt": "323m"
+    },
+    "Arthabaska": {
+        "cle": "7020305",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7020305&date_selection=2021-12-22",
+        "lat": "46 1' 14''",
+        "long": "-71 54' 9''",
+        "alt": "222m"
+    },
+    "Arundel": {
+        "cle": "7030310",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7030310&date_selection=2021-12-22",
+        "lat": "45 59' 6''",
+        "long": "-74 36' 34''",
+        "alt": "212m"
+    },
+    "Auclair": {
+        "cle": "7050388",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7050388&date_selection=2021-12-22",
+        "lat": "47 44' 0''",
+        "long": "-68 42' 25''",
+        "alt": "302m"
+    },
+    "Aux Écorces": {
+        "cle": "7066573",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7066573&date_selection=2021-12-22",
+        "lat": "48 10' 57''",
+        "long": "-71 38' 41''",
+        "alt": "359,7m"
+    },
+    "Aux Feuilles": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=711039B&date_selection=2021-12-22",
+        "lat": "58 16' 40''",
+        "long": "-71 18' 42''",
+        "alt": "59m"
+    },
+    "Baie Déception": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7110M45&date_selection=2021-12-22",
+        "lat": "62 7' 3''",
+        "long": "-74 36' 38''",
+        "alt": "2m"
+    },
+    "Baie-Johan-Beetz": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7040MMN&date_selection=2021-12-22",
+        "lat": "50 17' 16''",
+        "long": "-62 48' 9''",
+        "alt": "12m"
+    },
+    "Barrage Angliers": {
+        "cle": "7080452",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7080452&date_selection=2021-12-22",
+        "lat": "47 33' 7''",
+        "long": "-79 14' 8''",
+        "alt": "265m"
+    },
+    "Barrage Choinière": {
+        "cle": "7029020",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7029020&date_selection=2021-12-22",
+        "lat": "45 25' 2''",
+        "long": "-72 36' 34''",
+        "alt": "122m"
+    },
+    "Barrage des Rapides-des-Cèdres": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7030M51&date_selection=2021-12-22",
+        "lat": "46 6' 4''",
+        "long": "-75 38' 53''",
+        "alt": "201,8m"
+    },
+    "Barrage Jules-Allard": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7020M48&date_selection=2021-12-22",
+        "lat": "45 57' 3''",
+        "long": "-71 16' 26''",
+        "alt": "290,2m"
+    },
+    "Barrage Morin": {
+        "cle": "7050455",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7050455&date_selection=2021-12-22",
+        "lat": "47 38' 58''",
+        "long": "-69 30' 34''",
+        "alt": "192,3m"
+    },
+    "Barrage Saint-Didace": {
+        "cle": "7010453",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7010453&date_selection=2021-12-22",
+        "lat": "46 19' 37''",
+        "long": "-73 16' 41''",
+        "alt": "142,3m"
+    },
+    "Bécancour": {
+        "cle": "7020572",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7020572&date_selection=2021-12-22",
+        "lat": "46 20' 54''",
+        "long": "-72 25' 55''",
+        "alt": "8m"
+    },
+    "Belleterre": {
+        "cle": "7080600",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7080600&date_selection=2021-12-22",
+        "lat": "47 23' 21''",
+        "long": "-78 42' 11''",
+        "alt": "321m"
+    },
+    "Bic-2": {
+        "cle": "7050761",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7050761&date_selection=2021-12-22",
+        "lat": "48 20' 17''",
+        "long": "-68 41' 57''",
+        "alt": "164m"
+    },
+    "Bonsecours": {
+        "cle": "7020828",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7020828&date_selection=2021-12-22",
+        "lat": "45 24' 15''",
+        "long": "-72 18' 49''",
+        "alt": "300m"
+    },
+    "Broadback": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=709083F&date_selection=2021-12-22",
+        "lat": "50 44' 44''",
+        "long": "-76 23' 13''",
+        "alt": "253m"
+    },
+    "Brodtkorb": {
+        "cle": "7030838",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7030838&date_selection=2021-12-22",
+        "lat": "46 34' 3''",
+        "long": "-76 39' 8''",
+        "alt": "381m"
+    },
+    "Bromptonville": {
+        "cle": "7020860",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7020860&date_selection=2021-12-22",
+        "lat": "45 31' 53''",
+        "long": "-71 55' 57''",
+        "alt": "253m"
+    },
+    "Cap-des-Rosiers": {
+        "cle": "7051055",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7051055&date_selection=2021-12-22",
+        "lat": "48 51' 22''",
+        "long": "-64 12' 9''",
+        "alt": "5m"
+    },
+    "Cap-Éternité": {
+        "cle": "7041097",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7041097&date_selection=2021-12-22",
+        "lat": "48 14' 59''",
+        "long": "-70 23' 48''",
+        "alt": "292m"
+    },
+    "Caplan": {
+        "cle": "7051120",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7051120&date_selection=2021-12-22",
+        "lat": "48 6' 27''",
+        "long": "-65 41' 25''",
+        "alt": "33m"
+    },
+    "Champlain": {
+        "cle": "7011290",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7011290&date_selection=2021-12-22",
+        "lat": "46 27' 29''",
+        "long": "-72 19' 46''",
+        "alt": "16m"
+    },
+    "Chapais-2": {
+        "cle": "7091305",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7091305&date_selection=2021-12-22",
+        "lat": "49 47' 14''",
+        "long": "-74 51' 26''",
+        "alt": "386m"
+    },
+    "Charette": {
+        "cle": "7011307",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7011307&date_selection=2021-12-22",
+        "lat": "46 26' 29''",
+        "long": "-72 53' 32''",
+        "alt": "116m"
+    },
+    "Charny": {
+        "cle": "7021313",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7021313&date_selection=2021-12-22",
+        "lat": "46 42' 14''",
+        "long": "-71 16' 27''",
+        "alt": "71m"
+    },
+    "Charteris": {
+        "cle": "7031315",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7031315&date_selection=2021-12-22",
+        "lat": "45 40' 48''",
+        "long": "-76 26' 32''",
+        "alt": "174m"
+    },
+    "Chelsea": {
+        "cle": "7031360",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7031360&date_selection=2021-12-22",
+        "lat": "45 30' 8''",
+        "long": "-75 47' 27''",
+        "alt": "115m"
+    },
+    "Chénéville": {
+        "cle": "7031375",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7031375&date_selection=2021-12-22",
+        "lat": "45 56' 47''",
+        "long": "-75 2' 51''",
+        "alt": "273m"
+    },
+    "Chicoutimi": {
+        "cle": "7061439",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7061439&date_selection=2021-12-22",
+        "lat": "48 18' 27''",
+        "long": "-71 12' 40''",
+        "alt": "146,3m"
+    },
+    "Chouart": {
+        "cle": "7031455",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7031455&date_selection=2021-12-22",
+        "lat": "47 49' 28''",
+        "long": "-75 35' 7''",
+        "alt": "396m"
+    },
+    "Coaticook": {
+        "cle": "7021840",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7021840&date_selection=2021-12-22",
+        "lat": "45 9' 9''",
+        "long": "-71 49' 50''",
+        "alt": "358m"
+    },
+    "Commissaire": {
+        "cle": "7071912",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7071912&date_selection=2021-12-22",
+        "lat": "47 59' 30''",
+        "long": "-72 19' 1''",
+        "alt": "414m"
+    },
+    "Coteau-du-Lac": {
+        "cle": "7011947",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7011947&date_selection=2021-12-22",
+        "lat": "45 19' 19''",
+        "long": "-74 9' 49''",
+        "alt": "45m"
+    },
+    "Côte-Ouimet": {
+        "cle": "7051942",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7051942&date_selection=2021-12-22",
+        "lat": "48 17' 35''",
+        "long": "-68 6' 40''",
+        "alt": "415m"
+    },
+    "Danville": {
+        "cle": "7021954",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7021954&date_selection=2021-12-22",
+        "lat": "45 50' 13''",
+        "long": "-72 4' 44''",
+        "alt": "133m"
+    },
+    "Dépot-John": {
+        "cle": "7051970",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7051970&date_selection=2021-12-22",
+        "lat": "48 38' 57''",
+        "long": "-67 16' 16''",
+        "alt": "96m"
+    },
+    "Deschambault": {
+        "cle": "7011982",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7011982&date_selection=2021-12-22",
+        "lat": "46 40' 29''",
+        "long": "-71 55' 9''",
+        "alt": "14m"
+    },
+    "Dixville": {
+        "cle": "7022015",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022015&date_selection=2021-12-22",
+        "lat": "45 2' 58''",
+        "long": "-71 48' 31''",
+        "alt": "413m"
+    },
+    "Drummondville": {
+        "cle": "7022160",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022160&date_selection=2021-12-22",
+        "lat": "45 52' 36''",
+        "long": "-72 28' 27''",
+        "alt": "76m"
+    },
+    "Drummondville - Stade Jacques-Desautels": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=702T160&date_selection=2021-12-22",
+        "lat": "45 52' 16''",
+        "long": "-72 30' 11''",
+        "alt": "79m"
+    },
+    "Falardeau": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=706KC09&date_selection=2021-12-22",
+        "lat": "48 39' 0''",
+        "long": "-71 9' 28''",
+        "alt": "197m"
+    },
+    "Farnham": {
+        "cle": "7022320",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022320&date_selection=2021-12-22",
+        "lat": "45 18' 39''",
+        "long": "-72 53' 31''",
+        "alt": "75m"
+    },
+    "Ferme-Neuve-2": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=70323G0&date_selection=2021-12-22",
+        "lat": "46 43' 21''",
+        "long": "-75 24' 9''",
+        "alt": "225m"
+    },
+    "Fildegrand": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=70823GA&date_selection=2021-12-22",
+        "lat": "46 41' 41''",
+        "long": "-78 3' 39''",
+        "alt": "366m"
+    },
+    "Fleury": {
+        "cle": "7022375",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022375&date_selection=2021-12-22",
+        "lat": "45 48' 51''",
+        "long": "-73 0' 4''",
+        "alt": "40m"
+    },
+    "Forestville - Route 385": {
+        "cle": "7046710",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7046710&date_selection=2021-12-22",
+        "lat": "48 51' 19''",
+        "long": "-69 5' 55''",
+        "alt": "168m"
+    },
+    "Forêt Montmorency - Bush gauge": {
+        "cle": "7042389",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7042389&date_selection=2021-12-22",
+        "lat": "47 19' 23''",
+        "long": "-71 9' 0''",
+        "alt": "669m"
+    },
+    "Forêt-Montmorency": {
+        "cle": "7042388",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7042388&date_selection=2021-12-22",
+        "lat": "47 19' 20''",
+        "long": "-71 8' 52''",
+        "alt": "640m"
+    },
+    "Fortierville": {
+        "cle": "7022494",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022494&date_selection=2021-12-22",
+        "lat": "46 28' 3''",
+        "long": "-72 0' 19''",
+        "alt": "77m"
+    },
+    "Frampton-2": {
+        "cle": "7052554",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7052554&date_selection=2021-12-22",
+        "lat": "46 27' 48''",
+        "long": "-70 45' 44''",
+        "alt": "380m"
+    },
+    "Frenette": {
+        "cle": "7062585",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7062585&date_selection=2021-12-22",
+        "lat": "47 46' 27''",
+        "long": "-71 40' 50''",
+        "alt": "510m"
+    },
+    "Gabriel": {
+        "cle": "7052588",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7052588&date_selection=2021-12-22",
+        "lat": "48 25' 21''",
+        "long": "-68 6' 25''",
+        "alt": "319m"
+    },
+    "George": {
+        "cle": "7112715",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7112715&date_selection=2021-12-22",
+        "lat": "56 46' 58''",
+        "long": "-64 52' 5''",
+        "alt": "300m"
+    },
+    "Gîte": {
+        "cle": "7052725",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7052725&date_selection=2021-12-22",
+        "lat": "48 56' 45''",
+        "long": "-66 6' 59''",
+        "alt": "253m"
+    },
+    "Granby": {
+        "cle": "7022800",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022800&date_selection=2021-12-22",
+        "lat": "45 23' 14''",
+        "long": "-72 42' 20''",
+        "alt": "185m"
+    },
+    "Grande rivière de la Baleine": {
+        "cle": "7102830",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7102830&date_selection=2021-12-22",
+        "lat": "55 14' 16''",
+        "long": "-76 59' 5''",
+        "alt": "152,4m"
+    },
+    "Grande-Vallée": {
+        "cle": "7052865",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7052865&date_selection=2021-12-22",
+        "lat": "49 10' 48''",
+        "long": "-65 11' 6''",
+        "alt": "35m"
+    },
+    "Hemmingford-Four-Winds": {
+        "cle": "7023075",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7023075&date_selection=2021-12-22",
+        "lat": "45 4' 21''",
+        "long": "-73 39' 29''",
+        "alt": "70m"
+    },
+    "Honfleur-2": {
+        "cle": "7053141",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7053141&date_selection=2021-12-22",
+        "lat": "46 40' 28''",
+        "long": "-70 54' 25''",
+        "alt": "171m"
+    },
+    "Isle-aux-Coudres": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=704CBGH&date_selection=2021-12-22",
+        "lat": "47 23' 9''",
+        "long": "-70 22' 31''",
+        "alt": "24m"
+    },
+    "Joncas": {
+        "cle": "7083368",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7083368&date_selection=2021-12-22",
+        "lat": "47 6' 30''",
+        "long": "-77 39' 15''",
+        "alt": "335m"
+    },
+    "Kangiqsujuaq": {
+        "cle": "7113385",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7113385&date_selection=2021-12-22",
+        "lat": "61 34' 32''",
+        "long": "-71 54' 22''",
+        "alt": "144m"
+    },
+    "Kuujjuarapik": {
+        "cle": "7103535",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7103535&date_selection=2021-12-22",
+        "lat": "55 16' 35''",
+        "long": "-77 44' 46''",
+        "alt": "14m"
+    },
+    "La Corne": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=709L6H3&date_selection=2021-12-22",
+        "lat": "48 25' 2''",
+        "long": "-77 58' 30''",
+        "alt": "311m"
+    },
+    "La Morandière": {
+        "cle": "7094026",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7094026&date_selection=2021-12-22",
+        "lat": "48 36' 59''",
+        "long": "-77 36' 31''",
+        "alt": "297m"
+    },
+    "La Patrie": {
+        "cle": "7022010",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7022010&date_selection=2021-12-22",
+        "lat": "45 22' 23''",
+        "long": "-71 15' 0''",
+        "alt": "480m"
+    },
+    "La Providence": {
+        "cle": "7024102",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024102&date_selection=2021-12-22",
+        "lat": "45 37' 0''",
+        "long": "-72 57' 13''",
+        "alt": "32m"
+    },
+    "La Tuque": {
+        "cle": "7074240",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7074240&date_selection=2021-12-22",
+        "lat": "47 24' 23''",
+        "long": "-72 46' 59''",
+        "alt": "166m"
+    },
+    "Lac des Loups Marins": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=710362A&date_selection=2021-12-22",
+        "lat": "56 27' 16''",
+        "long": "-74 13' 53''",
+        "alt": "247m"
+    },
+    "Lac Payne": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=71136Q4&date_selection=2021-12-22",
+        "lat": "59 31' 12''",
+        "long": "-74 35' 7''",
+        "alt": "140m"
+    },
+    "Lac-aux-Sables": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=701LEEH&date_selection=2021-12-22",
+        "lat": "46 52' 11''",
+        "long": "-72 23' 44''",
+        "alt": "156m"
+    },
+    "Lac-Berry": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=709CEE9&date_selection=2021-12-22",
+        "lat": "48 43' 11''",
+        "long": "-78 13' 41''",
+        "alt": "300m"
+    },
+    "Lac-Édouard": {
+        "cle": "7012307",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7012307&date_selection=2021-12-22",
+        "lat": "47 38' 50''",
+        "long": "-72 17' 25''",
+        "alt": "366m"
+    },
+    "Lac-Ha!Ha!": {
+        "cle": "7063647",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7063647&date_selection=2021-12-22",
+        "lat": "47 59' 10''",
+        "long": "-70 46' 46''",
+        "alt": "533m"
+    },
+    "Lac-Humqui": {
+        "cle": "7053649",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7053649&date_selection=2021-12-22",
+        "lat": "48 16' 48''",
+        "long": "-67 34' 0''",
+        "alt": "247m"
+    },
+    "Lachute ": {
+        "cle": "7033650",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7033650&date_selection=2021-12-22",
+        "lat": "45 39' 22''",
+        "long": "-74 19' 32''",
+        "alt": "83m"
+    },
+    "Lac-Mégantic-2": {
+        "cle": "7023677",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7023677&date_selection=2021-12-22",
+        "lat": "45 35' 38''",
+        "long": "-70 53' 8''",
+        "alt": "457m"
+    },
+    "La-Galette": {
+        "cle": "7043713",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7043713&date_selection=2021-12-22",
+        "lat": "47 44' 32''",
+        "long": "-70 43' 23''",
+        "alt": "732m"
+    },
+    "L'Anse-Pleureuse": {
+        "cle": "7054075",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7054075&date_selection=2021-12-22",
+        "lat": "49 14' 11''",
+        "long": "-65 38' 10''",
+        "alt": "12m"
+    },
+    "Laprairie": {
+        "cle": "7024100",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024100&date_selection=2021-12-22",
+        "lat": "45 22' 46''",
+        "long": "-73 25' 51''",
+        "alt": "38m"
+    },
+    "Laurierville": {
+        "cle": "7024250",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024250&date_selection=2021-12-22",
+        "lat": "46 19' 4''",
+        "long": "-71 39' 26''",
+        "alt": "148m"
+    },
+    "Lauzon": {
+        "cle": "7024254",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024254&date_selection=2021-12-22",
+        "lat": "46 45' 18''",
+        "long": "-71 5' 18''",
+        "alt": "88m"
+    },
+    "Laval - Chomedey": {
+        "cle": "7021450",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7021450&date_selection=2021-12-22",
+        "lat": "45 32' 50''",
+        "long": "-73 44' 53''",
+        "alt": "46m"
+    },
+    "La-Vérendrye": {
+        "cle": "7034261",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7034261&date_selection=2021-12-22",
+        "lat": "47 25' 23''",
+        "long": "-74 54' 45''",
+        "alt": "412m"
+    },
+    "Les Buissons": {
+        "cle": "7044288",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7044288&date_selection=2021-12-22",
+        "lat": "49 5' 25''",
+        "long": "-68 19' 20''",
+        "alt": "19m"
+    },
+    "Les Cèdres": {
+        "cle": "7014290",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7014290&date_selection=2021-12-22",
+        "lat": "45 20' 24''",
+        "long": "-74 3' 34''",
+        "alt": "45m"
+    },
+    "Lévis - Parc Georges Maranda": {
+        "cle": "7024301",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024301&date_selection=2021-12-22",
+        "lat": "46 48' 21''",
+        "long": "-71 10' 3''",
+        "alt": "107m"
+    },
+    "Lingwick": {
+        "cle": "7024320",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024320&date_selection=2021-12-22",
+        "lat": "45 38' 13''",
+        "long": "-71 22' 21''",
+        "alt": "265m"
+    },
+    "Litchfield": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=703432G&date_selection=2021-12-22",
+        "lat": "45 48' 47''",
+        "long": "-76 39' 4''",
+        "alt": "129m"
+    },
+    "Longueuil": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=70208C1&date_selection=2021-12-22",
+        "lat": "45 31' 18''",
+        "long": "-73 29' 14''",
+        "alt": "30m"
+    },
+    "Louiseville": {
+        "cle": "7014332",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7014332&date_selection=2021-12-22",
+        "lat": "46 16' 25''",
+        "long": "-73 0' 34''",
+        "alt": "46m"
+    },
+    "Low": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=703V332&date_selection=2021-12-22",
+        "lat": "45 48' 41''",
+        "long": "-76 0' 16''",
+        "alt": "174m"
+    },
+    "Magog": {
+        "cle": "7024440",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024440&date_selection=2021-12-22",
+        "lat": "45 15' 27''",
+        "long": "-72 2' 52''",
+        "alt": "269m"
+    },
+    "Mancebourg": {
+        "cle": "7094447",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7094447&date_selection=2021-12-22",
+        "lat": "48 45' 2''",
+        "long": "-79 14' 5''",
+        "alt": "265m"
+    },
+    "Manneville-2": {
+        "cle": "7084561",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7084561&date_selection=2021-12-22",
+        "lat": "48 31' 1''",
+        "long": "-78 19' 49''",
+        "alt": "302m"
+    },
+    "Marguerite": {
+        "cle": "7054626",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7054626&date_selection=2021-12-22",
+        "lat": "48 19' 4''",
+        "long": "-67 4' 5''",
+        "alt": "472m"
+    },
+    "Marieville": {
+        "cle": "7024627",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7024627&date_selection=2021-12-22",
+        "lat": "45 23' 10''",
+        "long": "-73 8' 11''",
+        "alt": "40m"
+    },
+    "Montcerf": {
+        "cle": "7035107",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7035107&date_selection=2021-12-22",
+        "lat": "46 31' 21''",
+        "long": "-76 2' 37''",
+        "alt": "185m"
+    },
+    "Monts de Puvirnituq (camp Bélanger) ": {
+        "cle": "7105335",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7105335&date_selection=2021-12-22",
+        "lat": "61 21' 16''",
+        "long": "-75 2' 32''",
+        "alt": "337m"
+    },
+    "Mont-St-Michel": {
+        "cle": "7035334",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7035334&date_selection=2021-12-22",
+        "lat": "46 46' 7''",
+        "long": "-75 25' 57''",
+        "alt": "260m"
+    },
+    "Murdochville (Parc)": {
+        "cle": "7055382",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055382&date_selection=2021-12-22",
+        "lat": "48 55' 47''",
+        "long": "-65 25' 48''",
+        "alt": "494m"
+    },
+    "Natashquan": {
+        "cle": "7045399",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7045399&date_selection=2021-12-22",
+        "lat": "50 25' 39''",
+        "long": "-61 42' 43''",
+        "alt": "42,7m"
+    },
+    "New-Richmond-2": {
+        "cle": "7055431",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055431&date_selection=2021-12-22",
+        "lat": "48 11' 23''",
+        "long": "-65 50' 18''",
+        "alt": "57m"
+    },
+    "Nilgaut99": {
+        "cle": "7035455",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7035455&date_selection=2021-12-22",
+        "lat": "46 34' 30''",
+        "long": "-77 19' 51''",
+        "alt": "297m"
+    },
+    "Norbert": {
+        "cle": "7015610",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7015610&date_selection=2021-12-22",
+        "lat": "46 8' 46''",
+        "long": "-73 16' 57''",
+        "alt": "48m"
+    },
+    "Normandin-2": {
+        "cle": "7065641",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7065641&date_selection=2021-12-22",
+        "lat": "48 51' 1''",
+        "long": "-72 32' 34''",
+        "alt": "146m"
+    },
+    "Nouvelle": {
+        "cle": "7055705",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055705&date_selection=2021-12-22",
+        "lat": "48 6' 20''",
+        "long": "-66 18' 7''",
+        "alt": "10m"
+    },
+    "Oka": {
+        "cle": "7015730",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7015730&date_selection=2021-12-22",
+        "lat": "45 30' 14''",
+        "long": "-74 5' 38''",
+        "alt": "114m"
+    },
+    "Ormstown": {
+        "cle": "7025745",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7025745&date_selection=2021-12-22",
+        "lat": "45 7' 12''",
+        "long": "-74 2' 17''",
+        "alt": "45m"
+    },
+    "Padoue": {
+        "cle": "7055780",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055780&date_selection=2021-12-22",
+        "lat": "48 34' 53''",
+        "long": "-67 59' 0''",
+        "alt": "235m"
+    },
+    "Parc de la Gatineau - La-Pêche": {
+        "cle": "7034085",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7034085&date_selection=2021-12-22",
+        "lat": "45 37' 20''",
+        "long": "-76 1' 3''",
+        "alt": "206m"
+    },
+    "Parc nat. Gaspésie - Mont Ernest-Laforce": {
+        "cle": "7055113",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055113&date_selection=2021-12-22",
+        "lat": "48 55' 50''",
+        "long": "-66 3' 22''",
+        "alt": "636m"
+    },
+    "Parc nat. Gaspésie - Mt Albert sommet": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055G90&date_selection=2021-12-22",
+        "lat": "48 55' 29''",
+        "long": "-66 9' 21''",
+        "alt": "1056m"
+    },
+    "Parc nat. Gaspésie - Petit Mt Ste-Anne": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=705600R&date_selection=2021-12-22",
+        "lat": "49 0' 34''",
+        "long": "-66 0' 37''",
+        "alt": "1145m"
+    },
+    "Parc nat. Gaspésie - Refuge Serpentine": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055P90&date_selection=2021-12-22",
+        "lat": "48 54' 46''",
+        "long": "-66 8' 25''",
+        "alt": "575m"
+    },
+    "Parc national de la Pointe-Taillon": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=706579S&date_selection=2021-12-22",
+        "lat": "48 41' 8''",
+        "long": "-71 52' 27''",
+        "alt": "50m"
+    },
+    "Percé-2": {
+        "cle": "7055921",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7055921&date_selection=2021-12-22",
+        "lat": "48 27' 39''",
+        "long": "-64 21' 0''",
+        "alt": "118m"
+    },
+    "Petite-Rivière-Saint-François": {
+        "cle": "7046004",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7046004&date_selection=2021-12-22",
+        "lat": "47 17' 45''",
+        "long": "-70 34' 10''",
+        "alt": "12m"
+    },
+    "Petit-Saguenay": {
+        "cle": "7046010",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7046010&date_selection=2021-12-22",
+        "lat": "48 11' 32''",
+        "long": "-70 2' 49''",
+        "alt": "130m"
+    },
+    "Pierreville": {
+        "cle": "7026043",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7026043&date_selection=2021-12-22",
+        "lat": "46 2' 22''",
+        "long": "-72 50' 36''",
+        "alt": "20m"
+    },
+    "Pikauba": {
+        "cle": "7060225",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7060225&date_selection=2021-12-22",
+        "lat": "47 56' 30''",
+        "long": "-71 22' 55''",
+        "alt": "554,7m"
+    },
+    "Port-Daniel": {
+        "cle": "7056120",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056120&date_selection=2021-12-22",
+        "lat": "48 9' 7''",
+        "long": "-64 59' 6''",
+        "alt": "74m"
+    },
+    "Poste-Montagnais": {
+        "cle": "7046212",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7046212&date_selection=2021-12-22",
+        "lat": "51 53' 40''",
+        "long": "-65 43' 28''",
+        "alt": "595m"
+    },
+    "Puvirnituq ": {
+        "cle": "7106225",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7106225&date_selection=2021-12-22",
+        "lat": "60 1' 17''",
+        "long": "-77 20' 8''",
+        "alt": "11m"
+    },
+    "Quaqtaq": {
+        "cle": "7116275",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7116275&date_selection=2021-12-22",
+        "lat": "61 2' 45''",
+        "long": "-69 36' 22''",
+        "alt": "50m"
+    },
+    "Québec - Charlesbourg": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=70162H2&date_selection=2021-12-22",
+        "lat": "46 51' 41''",
+        "long": "-71 15' 25''",
+        "alt": "88m"
+    },
+    "Québec - Collège St-Charles-Garnier": {
+        "cle": "7016971",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016971&date_selection=2021-12-22",
+        "lat": "46 47' 40''",
+        "long": "-71 14' 47''",
+        "alt": "77m"
+    },
+    "Québec - École Les Primevères": {
+        "cle": "7015792",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7015792&date_selection=2021-12-22",
+        "lat": "46 46' 27''",
+        "long": "-71 22' 10''",
+        "alt": "30m"
+    },
+    "Québec - Henri IV": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=70162QT&date_selection=2021-12-22",
+        "lat": "46 46' 52''",
+        "long": "-71 18' 31''",
+        "alt": "52m"
+    },
+    "Québec - Lac Saint-Charles": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016BQ2&date_selection=2021-12-22",
+        "lat": "46 55' 19''",
+        "long": "-71 21' 51''",
+        "alt": "154m"
+    },
+    "Québec - Parc Duberger": {
+        "cle": "7016283",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016283&date_selection=2021-12-22",
+        "lat": "46 48' 56''",
+        "long": "-71 17' 36''",
+        "alt": "13m"
+    },
+    "Québec - Saint-Sauveur": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016T82&date_selection=2021-12-22",
+        "lat": "46 48' 40''",
+        "long": "-71 14' 0''",
+        "alt": "18m"
+    },
+    "Radisson": {
+        "cle": "7096330",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7096330&date_selection=2021-12-22",
+        "lat": "53 41' 31''",
+        "long": "-77 44' 30''",
+        "alt": "185m"
+    },
+    "Renard": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7096D61&date_selection=2021-12-22",
+        "lat": "52 49' 2''",
+        "long": "-72 12' 10''",
+        "alt": "483m"
+    },
+    "Rés. F. Ashuapmushuan - Pemonca": {
+        "cle": "7065900",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7065900&date_selection=2021-12-22",
+        "lat": "48 48' 35''",
+        "long": "-72 44' 20''",
+        "alt": "222m"
+    },
+    "Richmond": {
+        "cle": "7026465",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7026465&date_selection=2021-12-22",
+        "lat": "45 38' 25''",
+        "long": "-72 7' 37''",
+        "alt": "123m"
+    },
+    "Rigaud": {
+        "cle": "7016470",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016470&date_selection=2021-12-22",
+        "lat": "45 30' 41''",
+        "long": "-74 23' 7''",
+        "alt": "46m"
+    },
+    "Rimouski": {
+        "cle": "7056480",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056480&date_selection=2021-12-22",
+        "lat": "48 26' 56''",
+        "long": "-68 30' 19''",
+        "alt": "38m"
+    },
+    "Rivière Déception Est   ": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=711F6J1&date_selection=2021-12-22",
+        "lat": "61 40' 7''",
+        "long": "-73 43' 52''",
+        "alt": "572m"
+    },
+    "Rivière-au-Tonnerre": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=704FEG0&date_selection=2021-12-22",
+        "lat": "50 16' 37''",
+        "long": "-64 46' 34''",
+        "alt": "15m"
+    },
+    "Rivière-Bleue": {
+        "cle": "7056600",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056600&date_selection=2021-12-22",
+        "lat": "47 27' 23''",
+        "long": "-68 59' 35''",
+        "alt": "215m"
+    },
+    "Rivière-Boniface (forêt-SILA)": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=710660K&date_selection=2021-12-22",
+        "lat": "57 43' 36''",
+        "long": "-76 5' 13''",
+        "alt": "147m"
+    },
+    "Rivière-Cyriac": {
+        "cle": "7066611",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7066611&date_selection=2021-12-22",
+        "lat": "47 59' 5''",
+        "long": "-71 13' 26''",
+        "alt": "686m"
+    },
+    "Rivière-des-Prairies": {
+        "cle": "7026612",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7026612&date_selection=2021-12-22",
+        "lat": "45 41' 46''",
+        "long": "-73 30' 5''",
+        "alt": "13m"
+    },
+    "Rivière-Héva": {
+        "cle": "7096621",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7096621&date_selection=2021-12-22",
+        "lat": "48 12' 3''",
+        "long": "-78 10' 27''",
+        "alt": "309m"
+    },
+    "Rivière-Verte-Ouest": {
+        "cle": "7016675",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016675&date_selection=2021-12-22",
+        "lat": "46 59' 11''",
+        "long": "-71 50' 27''",
+        "alt": "226m"
+    },
+    "Rouyn-Noranda - Parc Tremblay": {
+        "cle": "7085796",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7085796&date_selection=2021-12-22",
+        "lat": "48 14' 3''",
+        "long": "-78 58' 59''",
+        "alt": "295m"
+    },
+    "Saguenay - Parc Powell": {
+        "cle": "7065789",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7065789&date_selection=2021-12-22",
+        "lat": "48 26' 2''",
+        "long": "-71 11' 4''",
+        "alt": "96m"
+    },
+    "Saguenay - UQAC": {
+        "cle": "7068568",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7068568&date_selection=2021-12-22",
+        "lat": "48 24' 59''",
+        "long": "-71 3' 8''",
+        "alt": "77m"
+    },
+    "Saint-Alban": {
+        "cle": "7016800",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016800&date_selection=2021-12-22",
+        "lat": "46 43' 37''",
+        "long": "-72 6' 51''",
+        "alt": "70m"
+    },
+    "Saint-Alexis-de-Matapédia": {
+        "cle": "7056814",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056814&date_selection=2021-12-22",
+        "lat": "47 58' 59''",
+        "long": "-67 3' 49''",
+        "alt": "297m"
+    },
+    "Saint-Alexis-des-Monts": {
+        "cle": "7016816",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016816&date_selection=2021-12-22",
+        "lat": "46 28' 0''",
+        "long": "-73 8' 48''",
+        "alt": "162m"
+    },
+    "Saint-Ambroise": {
+        "cle": "7066820",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7066820&date_selection=2021-12-22",
+        "lat": "48 34' 7''",
+        "long": "-71 20' 21''",
+        "alt": "127m"
+    },
+    "Saint-Anicet": {
+        "cle": "7026836",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7026836&date_selection=2021-12-22",
+        "lat": "45 8' 25''",
+        "long": "-74 20' 39''",
+        "alt": "46m"
+    },
+    "Saint-Arsène": {
+        "cle": "7056890",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056890&date_selection=2021-12-22",
+        "lat": "47 56' 55''",
+        "long": "-69 23' 32''",
+        "alt": "71m"
+    },
+    "Saint-Benoît": {
+        "cle": "7016906",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016906&date_selection=2021-12-22",
+        "lat": "45 36' 1''",
+        "long": "-74 7' 46''",
+        "alt": "52m"
+    },
+    "Saint-Bernard-de-Lacolle": {
+        "cle": "7026916",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7026916&date_selection=2021-12-22",
+        "lat": "45 1' 42''",
+        "long": "-73 23' 23''",
+        "alt": "46m"
+    },
+    "Saint-Camille": {
+        "cle": "7056930",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056930&date_selection=2021-12-22",
+        "lat": "46 26' 49''",
+        "long": "-70 17' 48''",
+        "alt": "386m"
+    },
+    "Saint-Camille-de-Wolfe": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=702FR30&date_selection=2021-12-22",
+        "lat": "45 39' 34''",
+        "long": "-71 43' 48''",
+        "alt": "265m"
+    },
+    "Saint-Charles-de-Mandeville": {
+        "cle": "7016960",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016960&date_selection=2021-12-22",
+        "lat": "46 21' 39''",
+        "long": "-73 20' 50''",
+        "alt": "170m"
+    },
+    "Saint-Clément": {
+        "cle": "7057024",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057024&date_selection=2021-12-22",
+        "lat": "47 54' 49''",
+        "long": "-69 6' 2''",
+        "alt": "257m"
+    },
+    "Saint-Côme-de-Linière": {
+        "cle": "7027083",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027083&date_selection=2021-12-22",
+        "lat": "46 2' 48''",
+        "long": "-70 30' 47''",
+        "alt": "248m"
+    },
+    "Sainte-Anne-de-la-Pérade": {
+        "cle": "7016840",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016840&date_selection=2021-12-22",
+        "lat": "46 35' 20''",
+        "long": "-72 13' 51''",
+        "alt": "18m"
+    },
+    "Sainte-Anne-des-Monts": {
+        "cle": "7056850",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7056850&date_selection=2021-12-22",
+        "lat": "49 6' 56''",
+        "long": "-66 32' 47''",
+        "alt": "15m"
+    },
+    "Sainte-Anne-du-Lac": {
+        "cle": "7036855",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7036855&date_selection=2021-12-22",
+        "lat": "46 51' 27''",
+        "long": "-75 19' 42''",
+        "alt": "269m"
+    },
+    "Sainte-Béatrix": {
+        "cle": "7016902",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016902&date_selection=2021-12-22",
+        "lat": "46 11' 41''",
+        "long": "-73 36' 34''",
+        "alt": "198m"
+    },
+    "Sainte-Catherine-de-la-Jacques-Cartier": {
+        "cle": "7011190",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7011190&date_selection=2021-12-22",
+        "lat": "46 50' 16''",
+        "long": "-71 37' 18''",
+        "alt": "130m"
+    },
+    "Sainte-Christine": {
+        "cle": "7017000",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7017000&date_selection=2021-12-22",
+        "lat": "46 48' 20''",
+        "long": "-71 53' 20''",
+        "alt": "124m"
+    },
+    "Sainte-Lucie": {
+        "cle": "7057515",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057515&date_selection=2021-12-22",
+        "lat": "46 44' 9''",
+        "long": "-70 1' 37''",
+        "alt": "363m"
+    },
+    "Saint-Elzéar-de-Bonaventure": {
+        "cle": "7057160",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057160&date_selection=2021-12-22",
+        "lat": "48 9' 37''",
+        "long": "-65 23' 51''",
+        "alt": "175m"
+    },
+    "Saint-Éphrem": {
+        "cle": "7027200",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027200&date_selection=2021-12-22",
+        "lat": "46 4' 51''",
+        "long": "-71 0' 42''",
+        "alt": "363m"
+    },
+    "Sainte-Rose-du-Dégelis": {
+        "cle": "7057720",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057720&date_selection=2021-12-22",
+        "lat": "47 32' 37''",
+        "long": "-68 37' 12''",
+        "alt": "150m"
+    },
+    "Saint-Faustin-Lac-Carré": {
+        "cle": "7032362",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7032362&date_selection=2021-12-22",
+        "lat": "46 2' 5''",
+        "long": "-74 28' 51''",
+        "alt": "411m"
+    },
+    "Saint-François-de-l'Île-d'Orléans": {
+        "cle": "7042557",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7042557&date_selection=2021-12-22",
+        "lat": "47 0' 55''",
+        "long": "-70 51' 45''",
+        "alt": "54m"
+    },
+    "Saint-Georges": {
+        "cle": "7027283",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027283&date_selection=2021-12-22",
+        "lat": "46 9' 7''",
+        "long": "-70 42' 24''",
+        "alt": "171m"
+    },
+    "Saint-Hilaire-de-Dorset": {
+        "cle": "7023130",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7023130&date_selection=2021-12-22",
+        "lat": "45 49' 29''",
+        "long": "-70 51' 23''",
+        "alt": "495m"
+    },
+    "Saint-Hippolyte": {
+        "cle": "7037310",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7037310&date_selection=2021-12-22",
+        "lat": "45 59' 19''",
+        "long": "-74 0' 22''",
+        "alt": "366m"
+    },
+    "Saint-Honoré": {
+        "cle": "7027315",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027315&date_selection=2021-12-22",
+        "lat": "46 3' 46''",
+        "long": "-70 47' 8''",
+        "alt": "305m"
+    },
+    "Saint-Hyacinthe-2": {
+        "cle": "7027361",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027361&date_selection=2021-12-22",
+        "lat": "45 35' 17''",
+        "long": "-72 58' 20''",
+        "alt": "35m"
+    },
+    "Saint-Jean-de-Cherbourg": {
+        "cle": "7057395",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057395&date_selection=2021-12-22",
+        "lat": "48 50' 26''",
+        "long": "-67 10' 12''",
+        "alt": "335m"
+    },
+    "Saint-Jean-Port-Joli": {
+        "cle": "7057397",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057397&date_selection=2021-12-22",
+        "lat": "47 10' 27''",
+        "long": "-70 15' 40''",
+        "alt": "40m"
+    },
+    "Saint-Jérôme": {
+        "cle": "7037400",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7037400&date_selection=2021-12-22",
+        "lat": "45 48' 26''",
+        "long": "-74 2' 27''",
+        "alt": "166m"
+    },
+    "Saint-Joseph-de-Sorel - École Martel": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=702230G&date_selection=2021-12-22",
+        "lat": "46 2' 42''",
+        "long": "-73 7' 46''",
+        "alt": "15m"
+    },
+    "Saint-Ludger": {
+        "cle": "7027516",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027516&date_selection=2021-12-22",
+        "lat": "45 45' 33''",
+        "long": "-70 40' 18''",
+        "alt": "329m"
+    },
+    "Saint-Malo-d'Auckland": {
+        "cle": "7027520",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027520&date_selection=2021-12-22",
+        "lat": "45 11' 50''",
+        "long": "-71 33' 30''",
+        "alt": "436m"
+    },
+    "Saint-Michel": {
+        "cle": "7057567",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057567&date_selection=2021-12-22",
+        "lat": "46 49' 51''",
+        "long": "-70 53' 5''",
+        "alt": "55m"
+    },
+    "Saint-Michel-des-Saints": {
+        "cle": "7077570",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7077570&date_selection=2021-12-22",
+        "lat": "46 41' 1''",
+        "long": "-73 55' 2''",
+        "alt": "367m"
+    },
+    "Saint-Narcisse": {
+        "cle": "7017585",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7017585&date_selection=2021-12-22",
+        "lat": "46 32' 16''",
+        "long": "-72 26' 4''",
+        "alt": "52m"
+    },
+    "Saint-Pamphile": {
+        "cle": "7057600",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057600&date_selection=2021-12-22",
+        "lat": "46 59' 9''",
+        "long": "-69 46' 20''",
+        "alt": "366m"
+    },
+    "Saint-Paul": {
+        "cle": "7047635",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7047635&date_selection=2021-12-22",
+        "lat": "51 46' 14''",
+        "long": "-57 36' 3''",
+        "alt": "30,5m"
+    },
+    "Saint-Philémon-2": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=705765B&date_selection=2021-12-22",
+        "lat": "46 38' 46''",
+        "long": "-70 29' 34''",
+        "alt": "370m"
+    },
+    "Saint-Pierre-de-Broughton": {
+        "cle": "7027656",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027656&date_selection=2021-12-22",
+        "lat": "46 14' 46''",
+        "long": "-71 12' 35''",
+        "alt": "375m"
+    },
+    "Saint-Prime": {
+        "cle": "7067658",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7067658&date_selection=2021-12-22",
+        "lat": "48 37' 7''",
+        "long": "-72 25' 17''",
+        "alt": "110m"
+    },
+    "Saint-Prosper": {
+        "cle": "7027660",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027660&date_selection=2021-12-22",
+        "lat": "46 11' 18''",
+        "long": "-70 29' 14''",
+        "alt": "299m"
+    },
+    "Saint-Roch-de-l'Achigan": {
+        "cle": "7017698",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7017698&date_selection=2021-12-22",
+        "lat": "45 50' 56''",
+        "long": "-73 41' 28''",
+        "alt": "57m"
+    },
+    "Saint-Séverin": {
+        "cle": "7027733",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027733&date_selection=2021-12-22",
+        "lat": "46 21' 35''",
+        "long": "-70 59' 56''",
+        "alt": "351m"
+    },
+    "Saint-Simon": {
+        "cle": "7027736",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027736&date_selection=2021-12-22",
+        "lat": "45 42' 55''",
+        "long": "-72 50' 25''",
+        "alt": "40m"
+    },
+    "Saint-Thomas-de-Caxton": {
+        "cle": "7017757",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7017757&date_selection=2021-12-22",
+        "lat": "46 21' 44''",
+        "long": "-72 46' 59''",
+        "alt": "55m"
+    },
+    "Saint-Tite-des-Caps-2": {
+        "cle": "7047763",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7047763&date_selection=2021-12-22",
+        "lat": "47 10' 18''",
+        "long": "-70 45' 6''",
+        "alt": "382m"
+    },
+    "Saint-Urbain": {
+        "cle": "7047770",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7047770&date_selection=2021-12-22",
+        "lat": "47 34' 17''",
+        "long": "-70 33' 7''",
+        "alt": "111m"
+    },
+    "Saint-Zéphirin-de-Courval": {
+        "cle": "7029230",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7029230&date_selection=2021-12-22",
+        "lat": "46 2' 32''",
+        "long": "-72 39' 36''",
+        "alt": "51m"
+    },
+    "Salluit SILA     ": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=711P788&date_selection=2021-12-22",
+        "lat": "62 11' 31''",
+        "long": "-75 38' 9''",
+        "alt": "42m"
+    },
+    "Sawyerville-Nord": {
+        "cle": "7027802",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027802&date_selection=2021-12-22",
+        "lat": "45 20' 12''",
+        "long": "-71 32' 44''",
+        "alt": "285m"
+    },
+    "Sayabec": {
+        "cle": "7057810",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7057810&date_selection=2021-12-22",
+        "lat": "48 32' 47''",
+        "long": "-67 35' 27''",
+        "alt": "174m"
+    },
+    "Scott": {
+        "cle": "7027840",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7027840&date_selection=2021-12-22",
+        "lat": "46 29' 52''",
+        "long": "-71 4' 37''",
+        "alt": "157m"
+    },
+    "Senneterre": {
+        "cle": "7090580",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7090580&date_selection=2021-12-22",
+        "lat": "48 25' 54''",
+        "long": "-77 11' 48''",
+        "alt": "305m"
+    },
+    "Shawinigan-2": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=701800A&date_selection=2021-12-22",
+        "lat": "46 34' 13''",
+        "long": "-72 42' 45''",
+        "alt": "96m"
+    },
+    "Sherbrooke - Parc Cambron": {
+        "cle": "7025789",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7025789&date_selection=2021-12-22",
+        "lat": "45 24' 45''",
+        "long": "-71 52' 27''",
+        "alt": "206m"
+    },
+    "Stanstead-Est": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7028B81&date_selection=2021-12-22",
+        "lat": "45 3' 7''",
+        "long": "-72 3' 53''",
+        "alt": "376m"
+    },
+    "Stoneham - Rés. F. des Laurentides": {
+        "cle": "7016731",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7016731&date_selection=2021-12-22",
+        "lat": "47 9' 38''",
+        "long": "-71 15' 30''",
+        "alt": "557m"
+    },
+    "Sutton": {
+        "cle": "7028292",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7028292&date_selection=2021-12-22",
+        "lat": "45 4' 35''",
+        "long": "-72 40' 31''",
+        "alt": "243m"
+    },
+    "Tadoussac": {
+        "cle": "7048320",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7048320&date_selection=2021-12-22",
+        "lat": "48 8' 43''",
+        "long": "-69 42' 50''",
+        "alt": "48m"
+    },
+    "Témiscaming": {
+        "cle": "7088397",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7088397&date_selection=2021-12-22",
+        "lat": "46 43' 18''",
+        "long": "-79 5' 56''",
+        "alt": "250m"
+    },
+    "Thetford-Mines": {
+        "cle": "7028441",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7028441&date_selection=2021-12-22",
+        "lat": "46 6' 2''",
+        "long": "-71 21' 11''",
+        "alt": "394m"
+    },
+    "Tingwick": {
+        "cle": "7028502",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7028502&date_selection=2021-12-22",
+        "lat": "45 54' 20''",
+        "long": "-71 56' 56''",
+        "alt": "262m"
+    },
+    "Trinité-des-Monts": {
+        "cle": "7058520",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7058520&date_selection=2021-12-22",
+        "lat": "48 8' 37''",
+        "long": "-68 28' 51''",
+        "alt": "270m"
+    },
+    "Trois-Rivières - Cap-de-la-Madeleine": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=70167C0&date_selection=2021-12-22",
+        "lat": "46 21' 44''",
+        "long": "-72 30' 36''",
+        "alt": "20m"
+    },
+    "Trois-Rivières - École MEES": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=701856B&date_selection=2021-12-22",
+        "lat": "46 21' 25''",
+        "long": "-72 32' 46''",
+        "alt": "12m"
+    },
+    "Umiujaq  ": {
+        "cle": "7108565",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7108565&date_selection=2021-12-22",
+        "lat": "56 32' 38''",
+        "long": "-76 32' 35''",
+        "alt": "15m"
+    },
+    "Umiujaq - Vallée des Trois (SILA)": {
+        "cle": [],
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7108W65&date_selection=2021-12-22",
+        "lat": "56 33' 30''",
+        "long": "-76 28' 57''",
+        "alt": "135m"
+    },
+    "Val-des-Monts": {
+        "cle": "7038589",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7038589&date_selection=2021-12-22",
+        "lat": "45 46' 30''",
+        "long": "-75 43' 39''",
+        "alt": "199m"
+    },
+    "Val-Paradis": {
+        "cle": "7098690",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7098690&date_selection=2021-12-22",
+        "lat": "49 7' 34''",
+        "long": "-79 12' 16''",
+        "alt": "289m"
+    },
+    "Verchères": {
+        "cle": "7028700",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7028700&date_selection=2021-12-22",
+        "lat": "45 46' 14''",
+        "long": "-73 21' 22''",
+        "alt": "26m"
+    },
+    "Ville-Marie": {
+        "cle": "7088760",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7088760&date_selection=2021-12-22",
+        "lat": "47 23' 15''",
+        "long": "-79 28' 48''",
+        "alt": "198m"
+    },
+    "Wapus": {
+        "cle": "7038885",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7038885&date_selection=2021-12-22",
+        "lat": "47 17' 42''",
+        "long": "-75 51' 33''",
+        "alt": "329m"
+    },
+    "Waswanipi": {
+        "cle": "7098895",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7098895&date_selection=2021-12-22",
+        "lat": "49 51' 27''",
+        "long": "-77 11' 13''",
+        "alt": "289,6m"
+    },
+    "Wright": {
+        "cle": "7038975",
+        "link": "http://www.environnement.gouv.qc.ca/climat/donnees/sommaire.asp?cle=7038975&date_selection=2021-12-22",
+        "lat": "46 2' 43''",
+        "long": "-76 1' 48''",
+        "alt": "154m"
+    }
+}
