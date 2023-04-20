@@ -40,7 +40,7 @@ import os
 from pprint import pprint as pp
 
 
-METEO_STATIONS_DUMP = "/Users/methodlocaluser/PycharmProjects/meteoHistory/meteo_stations_dump.json"
+METEO_STATIONS_DUMP = "/home/fuku/PycharmProjects/meteoHistory/meteo_stations_dump.json"
 
 def save_meteo_stations():
     """Saves all meteo stations into a json file."""
@@ -52,12 +52,12 @@ def save_meteo_stations():
                             features="html.parser")
     meteo_stations_names = soup.findAll("td", {"class": "station"})
 
-
     meteo_stations = {"date_created" : str(datetime.date.today())}
     link_root = "http://www.environnement.gouv.qc.ca/climat/donnees/"
-    for i in meteo_stations_names:
+    for i, station in enumerate(meteo_stations_names):
+        print(i, len(meteo_stations_names))
         try:
-            link = link_root + i.find("a").get("href")
+            link = link_root + station.find("a").get("href")
 
             # grabs lat, long and alt
             soup = bs.BeautifulSoup(urllib.request.urlopen(link),
@@ -77,11 +77,13 @@ def save_meteo_stations():
             cle = re.findall("cle=(\d+)&date", link)
             if cle:
                 cle = cle[0]
-            meteo_stations[i.find("a").text] = {"cle": cle,
-                                                "link": link,
-                                                "lat": location[1],
-                                                "long": location[2],
-                                                "alt": location[3]}
+            meteo_stations[station.find("a").text] = {
+                "cle": cle,
+                "link": link,
+                "lat": location[1],
+                "long": location[2],
+                "alt": location[3]
+            }
         except AttributeError:
             pass
 
@@ -97,40 +99,50 @@ def get_station_data(station, dates):
     """Gets all data of a station for a given period. If the json file does not
     exist it creates it.
 
-    :param station: str or int: station name or IDNumber
-    :param date: what comes out of "get_date_range" function:
-                    list with: - list of tuples
-                               - list of dates
-    :return: list of dicts: [{year, month, day, maxTemp, averageTemp, minTemp,
-                              mmRain, mmTotalRain, cmSnow, cmSnowOnGround}]
-    """
+    Args:
+        station: str or int: station name or IDNumber
+        dates: what comes out of "get_date_range" function:
+               list with: - list of tuples
+                          - list of dates
 
+    Returns:
+        list of dicts: [{year, month, day, maxTemp, averageTemp, minTemp,
+                       mmRain, mmTotalRain, cmSnow, cmSnowOnGround}]
+    """
     # check if json file exists
     if not os.path.exists(METEO_STATIONS_DUMP):
         save_meteo_stations()
 
-    with open (METEO_STATIONS_DUMP, "r") as file:
+    with open(METEO_STATIONS_DUMP, "r") as file:
         stations = json.load(file)
 
+    # print(dates)
     year_month = dates[0]
     data = []
     # print(year_month)
     for ym in year_month:
-        site_address = re.sub("\d\d\d\d-\d\d-\d\d", "-".join(ym)+"-01", stations[station]["link"])
-        # print(site_address)
+        site_address = re.sub(
+            "\d\d\d\d-\d\d-\d\d",
+            "-".join(ym)+"-01",
+            stations[station]["link"]
+        )
+        print(site_address)
 
         soup = bs.BeautifulSoup(urllib.request.urlopen(site_address),
                                 features="html.parser")
-        rows = soup.find("div", {"id": "contenu"}).findAll("table")[1].findAll("tr")
+        # print(soup.prettify())
+        rows = soup.findAll("tbody")
         # print(rows)
 
         period = soup.find("div", {"id": "contenu"}).findAll("table")
         period = period[0].findAll("tr")[2].find_all("td")[1].text.split("\xa0")
+        # print(period)
         # print(ym)
         # data for temps, rain, snow.
 
         for tr in rows:
             td = tr.find_all("td")
+            # print(td)
 
             row = [i.text.encode("ascii", "ignore").decode("utf-8", "ignore") for i in td]
             for char in ["\n", "\r", "\t", "\xa0"]:
@@ -138,27 +150,30 @@ def get_station_data(station, dates):
 
             if row and row[0] in ["{:02d}".format(i) for i in range(1, 32)]:
                 # print(row)
-                headers = {}
-                headers["Année"] = period[1]
-                headers["Mois"] = period[0]
-                headers["Jour"] = row[0]
-                headers["TempMaxC"] = row[1]
-                headers["TempMoyC"] = row[3]
-                headers["TempMinC"] = row[5]
-                headers["PrecipPluieMm"] = row[8]
-                headers["PrecipPluieTotalMm"] = row[10]
-                headers["PrecipNeigeCm"] = row[12]
-                headers["PrecipNeigeAuSolCm"] = row[14]
+                headers = {
+                    "Année": period[1],
+                    "Mois": period[0],
+                    "Jour": row[0],
+                    "TempMaxC": row[1],
+                    "TempMoyC": row[3],
+                    "TempMinC": row[5],
+                    "PrecipPluieMm": row[8],
+                    "PrecipPluieTotalMm": row[10],
+                    "PrecipNeigeCm": row[12],
+                    "PrecipNeigeAuSolCm": row[14],
+                }
                 data.append(headers)
 
     pp(data)
 
 
+
+
 def get_date_range(start, end):
     """Returns list of consecutive years, months and days in a date range.
 
-    :param start: str: start date : "2020-11-01"
-    :param end: str: end date: "2021-01-06"
+    :param start: str: start date : "2020-11-01" (year, month, day)
+    :param end: str: end date: "2021-01-06" (year, month, day)
     :return: list with - tuple of year/month pairs
                        - list of lists: [[2020, 11, 01], [2020, 11, 02], ...
                                         ..., [2021, 01, 06]]
